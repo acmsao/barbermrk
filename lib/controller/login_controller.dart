@@ -5,5 +5,5 @@ class LoginController extends GetxController {
   final LoginRepository repository = LoginRepository();
 
 //8:20 do video 10
-
+//teste
 }
