@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "504644121704",
+    "firebase_url": "https://barbermark-2a72e.firebaseio.com",
+    "project_id": "barbermark-2a72e",
+    "storage_bucket": "barbermark-2a72e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504644121704:android:8ddd632ced410eaaceb7dd",
+        "android_client_info": {
+          "package_name": "com.acm.barbermark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504644121704-h28kheekd5sn72jpu26irgkrgtq3fmpi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.acm.barbermark",
+            "certificate_hash": "5c1af1a6143f51e55da669fb3d9fa8ae56a87c00"
+          }
+        },
+        {
+          "client_id": "504644121704-he9o9h3kgote1ui6bu645m0qf1u1giq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV3xNS538KGxeH9mJEY2uixfxN0Bfgu58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504644121704-he9o9h3kgote1ui6bu645m0qf1u1giq6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
